@@ -150,14 +150,14 @@ const music_list = [
     },
     {
         img : 'images/Shamat.jpg',
-        name : 'Shamat',
+        name : 'Shaamat',
         artist : 'Ek Villain Returns',
         music : 'music/Shaamat - Lofi (Slowed + Reverb) _ Ankit Tiwari, Tara Sutaria _ SR Lofi (320 kbps).mp3'
     },
     {
         img : 'images/tere_pyaar.jpg',
         name : 'Tere Pyaar Me',
-        artist : 'Tun jhuthi Me makkar',
+        artist : 'Tu jhuthi Me makkar',
         music : 'music/Tere Pyaar Mein (Full Video) Tu Jhoothi Main Makkaar_ Ranbir,Shraddha_ Pritam_Arijit,Nikhita,Amitabh (320 kbps).mp3'
     },
     {
